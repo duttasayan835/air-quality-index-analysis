@@ -39,7 +39,7 @@ A comprehensive web application for analyzing air quality, predicting AQI levels
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/air-quality-index-analysis.git
+git clone https://github.com/duttasayan835/air-quality-index-analysis.git
 cd air-quality-index-analysis
 ```
 
@@ -74,10 +74,6 @@ The application requires the following model files in the project directory:
 3. In the Green Route Planning tab, enter start and destination points
 4. In the Health Impact Analysis tab, create your health profile
 5. In the Urban Planning Insights tab, view city zone analysis
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
